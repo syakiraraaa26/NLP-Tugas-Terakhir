@@ -1,6 +1,6 @@
 # NLP-Tugas-Terakhir
 
-#EKSPERIMEN PERBANDINGAN METODE LSTM, FAST Text, TRANSFORMER, DAN BERT
+## EKSPERIMEN PERBANDINGAN METODE LSTM, FAST Text, TRANSFORMER, DAN BERT
 
 ## Deskripsi Proyek
 Repositori ini dibuat untuk mendemonstrasikan kemampuan dalam mengelola dan menganalisis data menggunakan Python. Proyek ini mencakup berbagai aspek, mulai dari analisis data, pemrosesan data, hingga visualisasi data.
